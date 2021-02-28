@@ -11,6 +11,10 @@ It was released in April 2020.
 
 ![r8ap](https://raw.githubusercontent.com/askanakmala/template_me/main/r8ap.jpg "r8ap")
 
+## Download Release
+
+[SHRP_v2.3.2_olivewood🚀](https://github.com/askanakmala/device_xiaomi_olivewood-SHRP/releases/download/v2.3.2/SHRP_v2.3.2_olivewood-201727122020.zip)
+
 ## Compile
 
 First sync SHRP manifest:
